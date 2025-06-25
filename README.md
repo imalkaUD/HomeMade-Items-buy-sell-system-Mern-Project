@@ -1,4 +1,4 @@
-🛍️ Craftopia  — HomeMade item buy and sell platform
+🛍️  Craftopia — HomeMade item buy and sell platform
 
 🚀 **Craftopia** is the frontend of a **home-made product buying and selling platform** developed using **React**. Designed with a focus on **responsiveness**, **clean UI**, and **user-friendliness**, Craftopia enables users to effortlessly **browse, buy**, and **sell homemade items** online.
 
